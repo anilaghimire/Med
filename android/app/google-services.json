@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31332362934",
+    "project_id": "medify-caef0",
+    "storage_bucket": "medify-caef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31332362934:android:ce7adaf79e64af2b9fd417",
+        "android_client_info": {
+          "package_name": "com.anila.medify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31332362934-kuab4vditskkqkq2l16iss8thf1cjbot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcE_2bkXFKvmIHnugTjUSRFXsnixbJBDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31332362934-kuab4vditskkqkq2l16iss8thf1cjbot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
